@@ -19,6 +19,8 @@ Before starting, you must have the following tools installed.
 We use **Bun** for lightning-fast dependency management.
 [![](https://img.shields.io/badge/Install-Bun-black?style=for-the-badge&logo=bun)](https://bun.sh/)
 
+## 3. Install C++ Build Tools
+(https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 ---
 
 ## 📥 Getting Started
