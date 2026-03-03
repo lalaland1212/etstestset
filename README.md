@@ -9,11 +9,7 @@ Welcome to the **OGFN Ultimate Launcher** guide. Follow these steps to use the l
 Before starting, you must have the following tools installed. 
 
 ### 1. Rust Language
-[![](https://img.shields.io/badge/Install-Rust-blue?style=for-the-badge&logo=rust)]([https://rustup.rs/](https://visualstudio.microsoft.com/visual-cpp-build-tools/))
-
-> [!IMPORTANT]
-> **Rust is mandatory.** Without it, the Tauri compiler will fail.  
-> **[Click here to download Rust (rustup.rs)](https://rustup.rs/)**
+[![](https://img.shields.io/badge/Install-Rust-blue?style=for-the-badge&logo=rust)](https://bun.sh/)
 
 ### 2. Bun Runtime
 We use **Bun** for lightning-fast dependency management.
