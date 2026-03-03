@@ -9,7 +9,8 @@ Welcome to the **OGFN Ultimate Launcher** guide. Follow these steps to use the l
 Before starting, you must have the following tools installed. 
 
 ### 1. Rust Language
-[![](https://img.shields.io/badge/Install-Rust-blue?style=for-the-badge&logo=rust)](https://bun.sh/)
+Choose the version accomodates your device: (32-bit, x64, or arm64)
+[![](https://img.shields.io/badge/Install-Rust-blue?style=for-the-badge&logo=rust)]([https://bun.sh/](https://rust-lang.org/tools/install/))
 
 ### 2. Bun Runtime
 We use **Bun** for lightning-fast dependency management.
