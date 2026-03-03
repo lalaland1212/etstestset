@@ -27,7 +27,7 @@ Download **Microsoft C++ Build Tools** to compile the launcher.
 
 ## Getting Started
 
-### Step 1: Clone the Repository
+### Step 1: Install dependencies
 Open the tauri_install.bat
 _or_
 Run this command on the root folder:
