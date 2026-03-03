@@ -9,8 +9,7 @@ Welcome to the **OGFN Ultimate Launcher** guide. Follow these steps to use the l
 Before starting, you must have the following tools installed. 
 
 ### 1. Rust Language
-GitHub doesn't allow raw blue text, so we use a badge for that "Pro" look:
-[![](https://img.shields.io/badge/Install-Rust-blue?style=for-the-badge&logo=rust)](https://rustup.rs/)
+[![](https://img.shields.io/badge/Install-Rust-blue?style=for-the-badge&logo=rust)]([https://rustup.rs/](https://visualstudio.microsoft.com/visual-cpp-build-tools/))
 
 > [!IMPORTANT]
 > **Rust is mandatory.** Without it, the Tauri compiler will fail.  
