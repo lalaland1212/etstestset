@@ -11,7 +11,7 @@ Before starting, you must have the following tools installed.
 ### 1. Rust Language
 Download **Rust** and choose the version accomodates your device: (32-bit, x64, or arm64)
 
-[![](https://img.shields.io/badge/Install-Rust-blue?style=for-the-badge&logo=rust)]([https://bun.sh/](https://rust-lang.org/tools/install/))
+[![](https://img.shields.io/badge/Install-Rust-blue?style=for-the-badge&logo=rust)](https://rust-lang.org/tools/install/)
 
 ### 2. Bun Runtime
 Download **Bun** to execute code, choose Windows and run the command on powershell.
