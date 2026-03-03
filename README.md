@@ -25,10 +25,11 @@ Download **Microsoft C++ Build Tools** to compile the launcher.
 
 ---
 
-## 📥 Getting Started
+## Getting Started
 
 ### Step 1: Clone the Repository
-Open your terminal and run:
+Open the tauri_install.bat
+_or_
+Run this command on the root folder:
 ```bash
-git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
-cd your-repo
+bun install
